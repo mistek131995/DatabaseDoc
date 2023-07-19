@@ -1,0 +1,15 @@
+C:\Users\Юрий\RiderProjects\DatabaseDoc\ScanMSSQLProvider\bin\Debug\net7.0\ScanMSSQLProvider.deps.json
+C:\Users\Юрий\RiderProjects\DatabaseDoc\ScanMSSQLProvider\bin\Debug\net7.0\ScanMSSQLProvider.dll
+C:\Users\Юрий\RiderProjects\DatabaseDoc\ScanMSSQLProvider\bin\Debug\net7.0\ScanMSSQLProvider.pdb
+C:\Users\Юрий\RiderProjects\DatabaseDoc\ScanMSSQLProvider\bin\Debug\net7.0\Contracts.dll
+C:\Users\Юрий\RiderProjects\DatabaseDoc\ScanMSSQLProvider\bin\Debug\net7.0\Contracts.pdb
+C:\Users\Юрий\RiderProjects\DatabaseDoc\ScanMSSQLProvider\obj\Debug\net7.0\ScanMSSQLProvider.csproj.AssemblyReference.cache
+C:\Users\Юрий\RiderProjects\DatabaseDoc\ScanMSSQLProvider\obj\Debug\net7.0\ScanMSSQLProvider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юрий\RiderProjects\DatabaseDoc\ScanMSSQLProvider\obj\Debug\net7.0\ScanMSSQLProvider.AssemblyInfoInputs.cache
+C:\Users\Юрий\RiderProjects\DatabaseDoc\ScanMSSQLProvider\obj\Debug\net7.0\ScanMSSQLProvider.AssemblyInfo.cs
+C:\Users\Юрий\RiderProjects\DatabaseDoc\ScanMSSQLProvider\obj\Debug\net7.0\ScanMSSQLProvider.csproj.CoreCompileInputs.cache
+C:\Users\Юрий\RiderProjects\DatabaseDoc\ScanMSSQLProvider\obj\Debug\net7.0\ScanMSSQLProvider.csproj.CopyComplete
+C:\Users\Юрий\RiderProjects\DatabaseDoc\ScanMSSQLProvider\obj\Debug\net7.0\ScanMSSQLProvider.dll
+C:\Users\Юрий\RiderProjects\DatabaseDoc\ScanMSSQLProvider\obj\Debug\net7.0\refint\ScanMSSQLProvider.dll
+C:\Users\Юрий\RiderProjects\DatabaseDoc\ScanMSSQLProvider\obj\Debug\net7.0\ScanMSSQLProvider.pdb
+C:\Users\Юрий\RiderProjects\DatabaseDoc\ScanMSSQLProvider\obj\Debug\net7.0\ref\ScanMSSQLProvider.dll

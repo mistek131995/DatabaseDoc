@@ -1,0 +1,17 @@
+C:\DatabaseDoc\app\WebAPI.exe
+C:\DatabaseDoc\app\appsettings.Development.json
+C:\DatabaseDoc\app\appsettings.json
+C:\DatabaseDoc\app\plugins\MSSQLProvider.deps.json
+C:\DatabaseDoc\app\WebAPI.dll
+C:\DatabaseDoc\app\WebAPI.deps.json
+C:\DatabaseDoc\app\WebAPI.runtimeconfig.json
+C:\DatabaseDoc\app\WebAPI.pdb
+C:\DatabaseDoc\app\Microsoft.AspNetCore.OpenApi.dll
+C:\DatabaseDoc\app\Microsoft.OpenApi.dll
+C:\DatabaseDoc\app\Swashbuckle.AspNetCore.Swagger.dll
+C:\DatabaseDoc\app\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\DatabaseDoc\app\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\DatabaseDoc\app\Common.dll
+C:\DatabaseDoc\app\PluginManager.dll
+C:\DatabaseDoc\app\Common.pdb
+C:\DatabaseDoc\app\PluginManager.pdb

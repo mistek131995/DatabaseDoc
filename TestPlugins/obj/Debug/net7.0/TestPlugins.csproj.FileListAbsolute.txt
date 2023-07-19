@@ -1,0 +1,15 @@
+C:\Users\Юрий\RiderProjects\DatabaseDoc\TestPlugins\bin\Debug\net7.0\TestPlugins.deps.json
+C:\Users\Юрий\RiderProjects\DatabaseDoc\TestPlugins\bin\Debug\net7.0\TestPlugins.dll
+C:\Users\Юрий\RiderProjects\DatabaseDoc\TestPlugins\bin\Debug\net7.0\TestPlugins.pdb
+C:\Users\Юрий\RiderProjects\DatabaseDoc\TestPlugins\bin\Debug\net7.0\Contracts.dll
+C:\Users\Юрий\RiderProjects\DatabaseDoc\TestPlugins\bin\Debug\net7.0\Contracts.pdb
+C:\Users\Юрий\RiderProjects\DatabaseDoc\TestPlugins\obj\Debug\net7.0\TestPlugins.csproj.AssemblyReference.cache
+C:\Users\Юрий\RiderProjects\DatabaseDoc\TestPlugins\obj\Debug\net7.0\TestPlugins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юрий\RiderProjects\DatabaseDoc\TestPlugins\obj\Debug\net7.0\TestPlugins.AssemblyInfoInputs.cache
+C:\Users\Юрий\RiderProjects\DatabaseDoc\TestPlugins\obj\Debug\net7.0\TestPlugins.AssemblyInfo.cs
+C:\Users\Юрий\RiderProjects\DatabaseDoc\TestPlugins\obj\Debug\net7.0\TestPlugins.csproj.CoreCompileInputs.cache
+C:\Users\Юрий\RiderProjects\DatabaseDoc\TestPlugins\obj\Debug\net7.0\TestPlugins.csproj.CopyComplete
+C:\Users\Юрий\RiderProjects\DatabaseDoc\TestPlugins\obj\Debug\net7.0\TestPlugins.dll
+C:\Users\Юрий\RiderProjects\DatabaseDoc\TestPlugins\obj\Debug\net7.0\refint\TestPlugins.dll
+C:\Users\Юрий\RiderProjects\DatabaseDoc\TestPlugins\obj\Debug\net7.0\TestPlugins.pdb
+C:\Users\Юрий\RiderProjects\DatabaseDoc\TestPlugins\obj\Debug\net7.0\ref\TestPlugins.dll

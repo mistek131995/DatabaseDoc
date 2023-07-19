@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9K2pTHvpKZbtC2sJTfn72ZAtvrVJEw58qnaEv0luK8dOiblnI51LyyF+7HOhSvpx8kAP7FWv5Ytata/GJmDffA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Юрий\\RiderProjects\\DatabaseDoc\\ScanMSSQLProvider\\ScanMSSQLProvider.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Юрий\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Юрий\\.nuget\\packages\\system.componentmodel.composition\\7.0.0\\system.componentmodel.composition.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

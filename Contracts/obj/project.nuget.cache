@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lnhSYsLOr7beQfwIbk6qUPhhPS3TM4JW3G0DyTO2GBLM2LC09t7Z3XxgR3mdbpTH8FNUdN6sB1JJnh4j5ZVPdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Юрий\\RiderProjects\\DatabaseDoc\\Contracts\\Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Юрий\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

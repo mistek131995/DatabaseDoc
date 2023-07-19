@@ -1,0 +1,15 @@
+C:\Users\Юрий\RiderProjects\DatabaseDoc\PluginManager\bin\Debug\net7.0\PluginManager.deps.json
+C:\Users\Юрий\RiderProjects\DatabaseDoc\PluginManager\bin\Debug\net7.0\PluginManager.dll
+C:\Users\Юрий\RiderProjects\DatabaseDoc\PluginManager\bin\Debug\net7.0\PluginManager.pdb
+C:\Users\Юрий\RiderProjects\DatabaseDoc\PluginManager\obj\Debug\net7.0\PluginManager.csproj.AssemblyReference.cache
+C:\Users\Юрий\RiderProjects\DatabaseDoc\PluginManager\obj\Debug\net7.0\PluginManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юрий\RiderProjects\DatabaseDoc\PluginManager\obj\Debug\net7.0\PluginManager.AssemblyInfoInputs.cache
+C:\Users\Юрий\RiderProjects\DatabaseDoc\PluginManager\obj\Debug\net7.0\PluginManager.AssemblyInfo.cs
+C:\Users\Юрий\RiderProjects\DatabaseDoc\PluginManager\obj\Debug\net7.0\PluginManager.csproj.CoreCompileInputs.cache
+C:\Users\Юрий\RiderProjects\DatabaseDoc\PluginManager\obj\Debug\net7.0\PluginManager.dll
+C:\Users\Юрий\RiderProjects\DatabaseDoc\PluginManager\obj\Debug\net7.0\refint\PluginManager.dll
+C:\Users\Юрий\RiderProjects\DatabaseDoc\PluginManager\obj\Debug\net7.0\PluginManager.pdb
+C:\Users\Юрий\RiderProjects\DatabaseDoc\PluginManager\obj\Debug\net7.0\ref\PluginManager.dll
+C:\Users\Юрий\RiderProjects\DatabaseDoc\PluginManager\bin\Debug\net7.0\Contracts.dll
+C:\Users\Юрий\RiderProjects\DatabaseDoc\PluginManager\bin\Debug\net7.0\Contracts.pdb
+C:\Users\Юрий\RiderProjects\DatabaseDoc\PluginManager\obj\Debug\net7.0\PluginManager.csproj.CopyComplete

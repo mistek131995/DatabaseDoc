@@ -1,0 +1,14 @@
+C:\Users\Юрий\RiderProjects\DatabaseDoc\MSSQLProvider\bin\Debug\net7.0\MSSQLProvider.deps.json
+C:\Users\Юрий\RiderProjects\DatabaseDoc\MSSQLProvider\bin\Debug\net7.0\MSSQLProvider.dll
+C:\Users\Юрий\RiderProjects\DatabaseDoc\MSSQLProvider\bin\Debug\net7.0\MSSQLProvider.pdb
+C:\Users\Юрий\RiderProjects\DatabaseDoc\MSSQLProvider\obj\Debug\net7.0\MSSQLProvider.csproj.AssemblyReference.cache
+C:\Users\Юрий\RiderProjects\DatabaseDoc\MSSQLProvider\obj\Debug\net7.0\MSSQLProvider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юрий\RiderProjects\DatabaseDoc\MSSQLProvider\obj\Debug\net7.0\MSSQLProvider.AssemblyInfoInputs.cache
+C:\Users\Юрий\RiderProjects\DatabaseDoc\MSSQLProvider\obj\Debug\net7.0\MSSQLProvider.AssemblyInfo.cs
+C:\Users\Юрий\RiderProjects\DatabaseDoc\MSSQLProvider\obj\Debug\net7.0\MSSQLProvider.csproj.CoreCompileInputs.cache
+C:\Users\Юрий\RiderProjects\DatabaseDoc\MSSQLProvider\obj\Debug\net7.0\MSSQLProvider.dll
+C:\Users\Юрий\RiderProjects\DatabaseDoc\MSSQLProvider\obj\Debug\net7.0\refint\MSSQLProvider.dll
+C:\Users\Юрий\RiderProjects\DatabaseDoc\MSSQLProvider\obj\Debug\net7.0\MSSQLProvider.pdb
+C:\Users\Юрий\RiderProjects\DatabaseDoc\MSSQLProvider\obj\Debug\net7.0\ref\MSSQLProvider.dll
+C:\Users\Юрий\RiderProjects\DatabaseDoc\MSSQLProvider\bin\Debug\net7.0\MSSQLProvider.runtimeconfig.json
+C:\Users\Юрий\RiderProjects\DatabaseDoc\MSSQLProvider\obj\Debug\net7.0\MSSQLProvider.genruntimeconfig.cache
