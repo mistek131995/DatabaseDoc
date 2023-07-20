@@ -36,3 +36,5 @@ C:\Users\Юрий\RiderProjects\DatabaseDoc\WebAPI\obj\Debug\net7.0\ref\WebAPI.d
 C:\Users\Юрий\RiderProjects\DatabaseDoc\WebAPI\bin\Debug\net7.0\System.ComponentModel.Composition.dll
 C:\Users\Юрий\RiderProjects\DatabaseDoc\WebAPI\bin\Debug\net7.0\Contracts.dll
 C:\Users\Юрий\RiderProjects\DatabaseDoc\WebAPI\bin\Debug\net7.0\Contracts.pdb
+C:\Users\Юрий\RiderProjects\DatabaseDoc\WebAPI\bin\Debug\net7.0\MediatR.dll
+C:\Users\Юрий\RiderProjects\DatabaseDoc\WebAPI\bin\Debug\net7.0\MediatR.Contracts.dll

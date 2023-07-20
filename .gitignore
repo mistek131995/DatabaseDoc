@@ -1,0 +1,10 @@
+﻿Contracts/bin
+Contracts/obj
+PluginManager/bin
+PluginManager/obj
+WebAPI/bin
+WebAPI/obj
+MSSQLProvider/bin
+MSSQLProvider/obj
+ScanMSSQLProvider/bin
+ScanMSSQLProvider/obj

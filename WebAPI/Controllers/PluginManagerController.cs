@@ -7,12 +7,9 @@ namespace Web_API.Controllers;
 [Route("[controller]/[action]")]
 public class PluginManagerController : Controller
 {
-    public PluginManagerController(IDatabaseProviderStore databaseProviderStore, IPluginStore pluginStore)
-    {
-        this.databaseProviderStore = databaseProviderStore;
+    public PluginManagerController(IPluginStore pluginStore) =>
         this.pluginStore = pluginStore;
-    }
-    private readonly IDatabaseProviderStore databaseProviderStore;
+
     private readonly IPluginStore pluginStore;
     
     [HttpGet]
@@ -25,7 +22,7 @@ public class PluginManagerController : Controller
     [HttpGet]
     public JsonResult GetPlugins()
     {
-        var pluginNames = databaseProviderStore.DatabaseProviders.Select(x => x.Name).ToList();
+        var pluginNames = pluginStore.Plugins.Select(x => x.Name).ToList();
         
         return Json(pluginNames);
     }

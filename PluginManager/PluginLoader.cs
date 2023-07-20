@@ -5,7 +5,12 @@ namespace PluginManager;
 
 public static class PluginLoader<T> where T : class
 {
-    public static IEnumerable<Assembly> LoadPlugin(string folderName = "plugins")
+    /// <summary>
+    /// Загружает файлы плагинов
+    /// </summary>
+    /// <param name="folderName">Папка с плагинами</param>
+    /// <returns></returns>
+    private static IEnumerable<Assembly> LoadPlugin(string folderName = "plugins")
     {
         var pluginsPath = Path.Combine(Directory.GetCurrentDirectory(), folderName);
         var pluginFolders = Directory.GetDirectories(pluginsPath);
@@ -19,7 +24,12 @@ public static class PluginLoader<T> where T : class
         }
     }
 
-    public static T CreatePluginInstanse(Assembly assembly)
+    /// <summary>
+    /// Создает экзепляры плагинов
+    /// </summary>
+    /// <param name="assembly">Имя сборки</param>
+    /// <returns></returns>
+    private static T CreatePluginInstanse(Assembly assembly)
     {
         foreach (Type type in assembly.GetTypes())
         {
@@ -42,7 +52,7 @@ public static class PluginLoader<T> where T : class
     /// </summary>
     public static IEnumerable<T> InitializePlugins()
     {
-        var plugins = PluginLoader<IDatabaseProvider>.LoadPlugin();
+        var plugins = LoadPlugin();
 
         foreach (var plugin in plugins)
         {
